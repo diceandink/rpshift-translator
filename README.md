@@ -1,4 +1,4 @@
-# RPShift Translator 🎭
+# RPShift Translator 
 
 ![RPShift Logo](logo.png)
 
@@ -14,7 +14,7 @@
 
 Powered by **DeepL** (for precision) and **Groq AI** (for style/slang).
 
-### ✨ Features
+###  Features
 - **4 Translation Modes**:
     1. **Groq Only (Direct)**: Fast AI translation.
     2. **Groq Slang (Recommended)**: Translates & slangifies in one go.
@@ -25,7 +25,7 @@ Powered by **DeepL** (for precision) and **Groq AI** (for style/slang).
 - **Auto-Paste**: The result is automatically typed into your game/chat window.
 - **Bypass**: If you type `/` before your text (e.g. `/me walks`), it skips slangification to preserve commands.
 
-### 🚀 Installation Guide
+###  Installation Guide
 
 #### 1. Install AutoHotkey v2
 This script requires **AutoHotkey v2.0+**.
@@ -59,7 +59,7 @@ This tool is free to use, but you need your own API keys for the backend service
 #### 4. Run
 Double-click `groq.ahk`. You will see the "RPShift Menu" icon in your system tray.
 
-### 🎮 How to Use
+###  How to Use
 1. **Select text** (Turkish) in any app or type it out.
 2. Press **PageDown (`PgDn`)** (Default).
    - *Note: You can change this key anytime from the Debug Menu!*
@@ -81,7 +81,7 @@ Double-click `groq.ahk`. You will see the "RPShift Menu" icon in your system tra
 ### Genel Bakış
 **RPShift Translator**, rol yapanlar (GTA V RP, yazılı RPG'ler) için özel olarak geliştirilmiş gelişmiş bir çeviri aracıdır. Sıradan çevirilerin aksine, sadece kelime anlamını çevirmez; Türkçe metinleri karakterinize uygun, **doğal Amerikan argosuna (slang)** dönüştürür.
 
-### ✨ Özellikler
+###  Özellikler
 - **4 Çeviri Modu**:
     1. **Groq Only (Direct)**: Hızlı yapay zeka çevirisi.
     2. **Groq Slang (Önerilen)**: Tek seferde hem çevirir hem slangify eder. (önerilen)
@@ -92,7 +92,7 @@ Double-click `groq.ahk`. You will see the "RPShift Menu" icon in your system tra
 - **Oto-Yazma**: Sonuç otomatik olarak oyuna veya sohbet penceresine yapıştırılır.
 - **Komut Modu**: Eğer yazınız `/` ile başlıyorsa (örn: `/me yürür`), komutun bozulmaması için argo modu devre dışı kalır.
 
-### 🚀 Kurulum Rehberi
+###  Kurulum Rehberi
 
 #### 1. AutoHotkey v2 Yükleyin
 Bu araç **AutoHotkey v2.0+** gerektirir.
@@ -126,7 +126,7 @@ Aracı kullanmak ücretsizdir ancak arka plandaki servisler için kendi anahtarl
 #### 4. Çalıştırın
 `groq.ahk` dosyasına çift tıklayın.
 
-### 🎮 Nasıl Kullanılır?
+###  Nasıl Kullanılır?
 1. Herhangi bir yerde metni (Türkçe) **seçin**. (ctrl+a ile hızlıca seçebilirsiniz)
 2. **PageDown (`PgDn`)** tuşuna basın (Varsayılan).
    - *Not: Bu tuşu isterseniz Debug menüsünden değiştirebilirsiniz!*
